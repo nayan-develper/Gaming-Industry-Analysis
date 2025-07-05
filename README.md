@@ -15,6 +15,12 @@ This project was a part of an evaluation assignment of Udacity's Data Scientist 
 * How the Sales Trend for games has been for the past 40 years?
 * Publishers with most Global Sales along with which country offers the maximum of these sales?
 
+![Alt text](img1.jpg)
+
+![Alt text](img2.jpg)
+
+![Alt text](img3.jpg)
+
 -----------------------
 
 
