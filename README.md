@@ -16,8 +16,7 @@ This project was a part of an evaluation assignment of Udacity's Data Scientist 
 * Publishers with most Global Sales along with which country offers the maximum of these sales?
 
 -----------------------
-## Summary
-The answers to the above questions and my findings can all be found in my blog post right [here](). Please do refer to it.
+
 
 -----------------------
 
